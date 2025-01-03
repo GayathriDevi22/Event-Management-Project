@@ -1,5 +1,5 @@
-# Event-Management-Project
-# Event Management System (Under Development)
+# Event-Management-Project (Under Development)
+
 
 
 ## Live Demo
