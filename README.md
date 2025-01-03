@@ -4,8 +4,8 @@
 
 ## Live Demo
 You can view the live demo of the application here:
-- [Event Management Homepage](https://manibharathy-k.github.io/EventManagement/homepage)
-- [Event Management Admin Dashboard](https://manibharathy-k.github.io/EventManagement/dashboard/home)
+- [Event Management Homepage](https://gayathridevi22.github.io/Event-Management/homepage)
+- [Event Management Admin Dashboard](https://gayathridevi22.github.io/Event-Management/dashboard/home)
 
 
 ## Table of Contents
